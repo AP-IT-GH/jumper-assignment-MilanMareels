@@ -658,7 +658,7 @@ MonoBehaviour:
   hasUpgradedFromAgentParameters: 1
   MaxStep: 0
   _target: {fileID: 1672272050}
-  _jumpForce: 10
+  _jumpForce: 8
   _targetSpeed: 2
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
